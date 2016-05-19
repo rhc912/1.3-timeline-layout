@@ -6,6 +6,7 @@ body {
 }
 html {
   box-sizing: border-box;
+  max-width: 144%;
 }
 h1 {
   color: white;
@@ -28,7 +29,7 @@ p {
 }
 .timeline-item {
 
-  border-left: 4px solid rgb(181,220,244);
+  /*border-left: 13px solid rgb(181,220,244);*/
 
 }
 .section_date_time{
@@ -65,7 +66,7 @@ p {
 }
 .timeline-symbol2{
   position: absolute;
-  left: 155px;
+  left: 141px;
   top: 15px;
   width: 40px;
   height: 40px;
