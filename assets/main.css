@@ -19,6 +19,7 @@ p {
   color: white;
   font-family: verdana;
   padding-left: 23px;
+  padding-right: 29px;;
 
 }
 .container {
@@ -118,12 +119,18 @@ p {
   left: 215px;
   position: absolute;
 }
+.timeline-article:hover{
+  background-color: rgb(71,150,196);
+}
 .timeline-article {
   float:right;
   display:inline-block;
   background-color: rgb(121,192,231);
   border-radius: 4px;
 
+}
+.timeline-article2:hover{
+  background-color: rgb(121,192,231);
 }
 .timeline-article2 {
   float:right;
